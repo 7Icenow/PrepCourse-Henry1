@@ -1,2 +1,2 @@
-# PrepCourse-Henry1
-Primer repositorio creado de la nube, módulo 2 
+Tadeo Acosta
+Esta es un prueba para crear un repositorio y clonarlo desde github a mi computadora.
